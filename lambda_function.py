@@ -7,5 +7,5 @@ def lambda_handler(event, context):
         "headers": {
             "Content-Type": "text/html"
         },
-        "body": "<h1>Hello from AWS Lambda!</h1><p>This is a simple Python app.</p>"
+        "body": "<h1>Hello from AWS Lambda!</h1><p>This is a simple Python app Version 2.</p>"
     }
